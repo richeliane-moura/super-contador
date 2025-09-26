@@ -31,7 +31,7 @@ Contando:
 ---
 # 💡 Visualizar
 
-git clone https://github.com/richeliane-moura/super-contador.git
+ https://richeliane-moura.github.io/super-contador/
 
 ## 👨‍💻 Créditos
 
